@@ -14,9 +14,13 @@ Desktop Dashboard
 
 <img width="947" alt="Dashboard-desktop" src="https://github.com/user-attachments/assets/98ee6115-549d-4992-888d-aaeeea4f7660" />
 
-Desktop Login
+Desktop and mobile Login
 
 <img width="953" alt="Desktop-login" src="https://github.com/user-attachments/assets/a263f9b3-bc4b-4a48-8def-576adfabb980" />
+
+
+<img width="397" alt="login mobile" src="https://github.com/user-attachments/assets/84220662-0bf8-4bb3-976e-277c077ed81a" />
+
 
 Mobile Dashboard
 
