@@ -1,7 +1,7 @@
 # Vue 3 + Vite
 
 # to run
-npm run serve
+npm run dev
 
 # Dependencies
 vuex
